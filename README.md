@@ -7,7 +7,7 @@
 
 #
 
-<p align="center">Estudante do Instituto Federal no curso de Informática. Atualmente estudo typescript, Javascript, HTML, CSS e Python. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Estudante do Instituto Federal no curso de Informática. Atualmente estudo Typescript, Javascript, HTML, CSS e Python. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 #
 
